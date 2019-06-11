@@ -2,7 +2,7 @@
 
 namespace operators
 {
-    public class ConditionalExamples
+    public class ConditionalOperator
     {
         public static void Examples()
         {

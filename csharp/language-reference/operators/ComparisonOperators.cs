@@ -2,7 +2,7 @@ using System;
 
 namespace operators
 {
-    public static class GreaterAndLessOperatorsExamples
+    public static class ComparisonOperators
     {
         public static void Examples()
         {

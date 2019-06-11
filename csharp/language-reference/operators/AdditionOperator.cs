@@ -2,7 +2,7 @@ using System;
 
 namespace operators
 {
-    public static class AdditionExamples
+    public static class AdditionOperator
     {
         public static void Examples()
         {
@@ -24,10 +24,10 @@ namespace operators
         private static void StringConcatenation()
         {
             // <SnippetAddStrings>
-            Console.WriteLine("Forgot " + " white space");
+            Console.WriteLine("Forgot" + "white space");
             Console.WriteLine("Probably the oldest constant: " + Math.PI);
             // Output:
-            // Forgot white space
+            // Forgotwhite space
             // Probably the oldest constant: 3.14159265358979
             // </SnippetAddStrings>
 

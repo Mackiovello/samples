@@ -2,7 +2,7 @@ using System;
 
 namespace operators
 {
-    public static class EqualityAndNonEqualityExamples
+    public static class EqualityOperators
     {
         public static void Examples()
         {

@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace operators
 {
-    public static class LambdaOperatorExamples
+    public static class LambdaOperator
     {
         public static void Examples()
         {
